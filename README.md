@@ -40,10 +40,10 @@ Our project does not entail ‘analyzing’ any data however it does entail figu
 
 ## Expected Findings 
 * Improved Decision-Making: Comprehensive financial and operational insights enabling faster, data-driven decisions.
-Efficient Data Integration: Seamless data consolidation from various sources via the Unified API.
+* Efficient Data Integration: Seamless data consolidation from various sources via the Unified API.
 * Enhanced Financial Visibility: Clear view of financial health, cash flow, and expense breakdown.
-Increased Data Literacy: More accessible and understandable data visualizations.
-Scalable Analytics: Template library supporting businesses of various sizes and industries.
+* Increased Data Literacy: More accessible and understandable data visualizations.
+* Scalable Analytics: Template library supporting businesses of various sizes and industries.
 * Competitive Edge: Advanced analytics capabilities giving QBO customers an advantage in their markets.
 
 ## Risks / Limitations / Challenges
